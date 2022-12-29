@@ -5,7 +5,7 @@ This my first Java GUI project.
 FEATURES
 - rotating ships
 - custom graphics
-- opponent targetting algorithm
+- opponent targeting algorithm
 - point and click firing
 
 BUGS/ISSUES
